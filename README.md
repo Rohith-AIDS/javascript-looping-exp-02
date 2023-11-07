@@ -1,5 +1,5 @@
 # EXP:02 Javascript-Looping
-# Program
+### PROGRAM
 
 ### Looping through an array
 ```
@@ -43,5 +43,5 @@ for (let i = 0; i < books.length; i++) {
   }
 }
 ```
-# Output
+### OUTPUT
 ![image](https://github.com/Rohith-AIDS/javascript-looping-exp-02/assets/94980736/baa33c23-8210-433d-a70c-e40d31a08499)
